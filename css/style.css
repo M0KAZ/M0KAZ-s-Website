@@ -1,0 +1,19 @@
+body{
+    font-size:22px;
+}
+p{
+    color: purple;
+}
+.gray{
+    background-color: gray;
+}
+#second{
+    font-style: italic;
+}
+h1{
+    background-color:blue;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
